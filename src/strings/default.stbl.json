@@ -1,0 +1,8 @@
+{
+  "locale": "English",
+  "group": "0x80000000",
+  "instanceBase": "0x004FB35282E0E6",
+  "entries": {
+    "0xF808D194": "{0.SimFirstName} and {1.SimFirstName} have decided to just be friends.\\n\\nRomantic Satisfaction will no longer be tracked."
+  }
+}
